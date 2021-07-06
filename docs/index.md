@@ -1,4 +1,4 @@
 ---
 sort: 1
 ---
-# Name
+# MGeneric Combat Plugin

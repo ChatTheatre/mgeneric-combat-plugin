@@ -1,7 +1,7 @@
 {
-    "name": "Plugin Name",
+    "name": "MGeneric Combat Plugin",
     "git": {
-        "url": "https://github.com/ChatTheatre/name-plugin",
+        "url": "https://github.com/ChatTheatre/mgeneric-combat-plugin",
         "branch": "main"
     },
     "paths": {
